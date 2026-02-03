@@ -8,7 +8,7 @@ This project analyzes the complete marketing funnel using an interactive Power B
 
 ![Marketing Funnel Dashboard](https://github.com/ugaleajay142-dev/FUTURE_DS_03/blob/main/Page2.png)
 
-> 📌 *Replace the image link with your uploaded Power BI dashboard screenshot.*
+
 
 ## Objectives
 - Track lead movement across funnel stages  
